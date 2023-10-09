@@ -1,0 +1,20 @@
+
+
+
+1.activate environment name env
+
+-> .\env\Scripts\activate
+
+2.find those profile_id not add in monitoring for that first run the find.py file in terminal its show you data which one you need to add.
+
+
+3.that go to facebook and collect cookies.txt
+
+for get cookies.txt add that extention in your crome link is given bellow.that scripts only run for unlockprofile.
+https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+
+if you search a id it genarate a cookies.txt copy that cookies form here and paste here
+
+
+4.run the cmnd
+python timelinedata.py "profile_id"
